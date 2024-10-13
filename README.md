@@ -1,4 +1,3 @@
-# Using Python and SQL · Chicago Public Schools Performance
+# Using Python and SQL · Chicago Social Statistics
 
-In this project I am working on Chicago Public Schools Performance data using SQL and Python.
-
+As a data specialist, I am requested to provide information on 12 different problems concerning Chicago social statistics data. Since the data is located in SQLite database, I have to set up a connection and retrieve necessary information using SQL Alchemy and SQL Magic libraries for Python.
