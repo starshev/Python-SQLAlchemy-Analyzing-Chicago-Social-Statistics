@@ -7,5 +7,5 @@ As a data specialist, I am requested to provide information on 9 different probl
 **Skills**
 
 Utilizing SQL Alchemy and SQL Magic libraries with Python  
-Solving example problems with SQL  
-Retrieving metadata about tables and columns and quering data from mixed case columns  
+Retrieving metadata about tables and columns  
+Quering data with SQL to answer the example problems  
