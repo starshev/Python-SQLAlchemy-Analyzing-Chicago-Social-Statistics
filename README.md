@@ -1,4 +1,4 @@
-# Using Python and SQL · Chicago Social Statistics
+# Using Python and SQL · Social Statistics
 
 **Context**
 
