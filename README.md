@@ -1,17 +1,15 @@
-# Using Python and SQL · Analyzing Chicago Social Statistics
+# Using Python and SQL for Analyzing Chicago Social Statistics
 
-### Project Overview
+### Task
+Connect to an SQLite database with Chicago social statistics to solve 9 analytical questions. Use SQL Alchemy and SQL Magic libraries in Python to retrieve metadata and query the database for insights.
 
-Set up a connection to an SQLite database containing Chicago social statistics data to address 9 specific analytical questions. Used SQL Alchemy and SQL Magic libraries in Python to retrieve metadata and query the database for insights.
+### Skills
+Working with SQL Alchemy and SQL Magic in Python, retrieving table and column metadata, writing SQL queries to answer analytical questions.
 
-### Key Skills
+# Использование Python и SQL для анализа социальной статистики Чикаго
 
-Utilizing SQL Alchemy and SQL Magic libraries with Python, retrieving metadata about tables and columns, querying data with SQL to answer analytical questions.
+### Задача
+Настроить соединение с базой данных SQLite, содержащей социальную статистику Чикаго, для решения 9 аналитических задач. Использовать библиотеки SQL Alchemy и SQL Magic в Python для получения метаданных и выполнения запросов к базе данных.
 
-### Описание проекта
-
-Настроено соединение с базой данных SQLite с данными по социальной статистике Чикаго для решения девяти аналитических задач. Использованы библиотеки SQL Alchemy и SQL Magic в Python для извлечения метаданных и выполнения запросов к базе данных.
-
-### Ключевые навыки
-
-Использование библиотек SQL Alchemy и SQL Magic с Python, получение метаданных таблиц и колонок, выполнение SQL-запросов для решения аналитических задач.
+### Навыки
+Работа с библиотеками SQL Alchemy и SQL Magic в Python, извлечение метаданных таблиц и колонок, написание SQL-запросов для решения аналитических задач.
